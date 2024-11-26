@@ -1,3 +1,3 @@
-About: 
+About: These are the diffrent Data analysis projects i have done.
 
-Time of devolopment: during my third year of B-tech, 2024.
+Time of devolopment: during my Second year of B-tech, 2023.
