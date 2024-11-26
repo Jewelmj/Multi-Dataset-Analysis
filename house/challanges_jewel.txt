@@ -1,0 +1,13 @@
+challanges:
+in the first activity there were plenty of plot option to choose from in eda which took time to find intresting ones from them.
+
+in the second project house price, the challanging part was to read the domain to get insigts and the large 80 number of column.
+
+learnings:
+i improved my skills on what to plot to get intresting finding, and how to chose the important columns based on domain knoledge.
+
+the 2 project gave me experience on handling diffrend kinds of challanages and improved my skill at data preprocessing and visualisation.
+
+learned to combine columns into a single most valuble column in second project.
+
+learned to find patern in missing value befor treating it.
